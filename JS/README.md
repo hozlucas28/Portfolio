@@ -1,2 +1,2 @@
 # JS Folder
-Several scripts for .html files of My Web Page.
+Folder with scripts for .html files.

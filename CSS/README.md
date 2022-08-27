@@ -1,2 +1,2 @@
 # CSS Folder
-Several stylesheets for .html files of My Web Page.
+Folder with stylesheets (.css) for .html files.
