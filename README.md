@@ -5,6 +5,7 @@ Repositorio de mi sitio web personal.
 ## Ideas:
 | **Descripción** | **Estado** |
 | ------------ | :---: |
+| _Una pestaña de aptitudes._ | ⌛ |
 | _Una línea de tiempo que muestre mi progreso en la programación desde mis inicios en las comunidades/organizaciones de videojuegos hasta la actualidad._ | ⌛ |
 
 
