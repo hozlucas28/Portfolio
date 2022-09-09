@@ -5,8 +5,11 @@ Repositorio de mi sitio web personal.
 ## Ideas:
 | **Descripción** | **Estado** |
 | ------------ | :---: |
-| _Una pantalla de carga._ | ⌛ |
-| _Una pestaña de aptitudes._ | ⌛ |
+| _Pantalla de carga personalizada._ | ⌛ |
+| _Página '404 Error' personalizada._ | ⌛ |
+| _Barra de desplazamiento personalizada._ | ⌛ |
+| _Agregar aptitudes a la página 'Sobre mí'._ | ⌛ |
+| _Cuando clickee en el logo de discord que se copie mi ID._ | ⌛ |
 | _Una línea de tiempo que muestre mi progreso en la programación desde mis inicios en las comunidades/organizaciones de videojuegos hasta la actualidad._ | ⌛ |
 
 
@@ -41,3 +44,4 @@ Repositorio de mi sitio web personal.
 |  |  |  |  |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | ✔ | ❌ | ⌛ | 🔴 | 🟠 | 🟡 |
+
