@@ -11,6 +11,7 @@ Repositorio de mi sitio web personal.
 | _Agregar aptitudes a la página 'Sobre mí'._ | ⌛ |
 | _Switch para cambiar el idioma de la página._ | ⌛ |
 | _Cuando clickee en el logo de discord que se copie mi ID._ | ⌛ |
+| _Agregar un mapa que muestre mi localización (aproximada), en la sección 'Contacto'._ | ⌛ |
 | _Una línea de tiempo que muestre mi progreso en la programación desde mis inicios en las comunidades/organizaciones de videojuegos hasta la actualidad._ | ⌛ |
 
 
