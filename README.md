@@ -19,19 +19,13 @@ Repositorio de mi sitio web personal.
 
 ## Branches
 
-### HTML:
+### Front-end:
 | **Prioridad** | **Descripción** | **Estado** |
 | :---: | ------------ | :---: |
 | XXX | _XXX_ | X |
 > [Ir a la rama.]()
 
-### CSS:
-| **Prioridad** | **Descripción** | **Estado** |
-| :---: | ------------ | :---: |
-| XXX | _XXX_ | X |
-> [Ir a la rama.]()
-
-### JS:
+### Back-end:
 | **Prioridad** | **Descripción** | **Estado** |
 | :---: | ------------ | :---: |
 | XXX | _XXX_ | X |
