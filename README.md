@@ -5,6 +5,8 @@ Repositorio de mi sitio web personal.
 ## Ideas:
 | **Descripción** | **Estado** |
 | ------------ | :---: |
+| _Página FAQ._ | ⌛ |
+| _Página CV (virtual)._ | ⌛ |
 | _Página '404 Error' personalizada._ | ⌛ |
 | _Hacer la página al estilo One Page._ | ⌛ |
 | _Barra de desplazamiento personalizada._ | ⌛ |
