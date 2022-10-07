@@ -1,4 +1,8 @@
 
 /* -------------------------------------------------------------------------- */
-/*                   ESTILOS COMUNES PARA TODAS LAS PÁGINAS                   */
+/*                                IMPORTACIONES                               */
 /* -------------------------------------------------------------------------- */
+
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
