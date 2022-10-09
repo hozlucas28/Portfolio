@@ -65,9 +65,9 @@ module.exports = {
 		}),
 		new HtmlWebpackPlugin({
 			minify: true,
-			template: './src/pages/test.html',
+			template: './src/test/index.html',
 			scriptLoading: 'blocking',
-			filename: 'test.html'
+			filename: './test/index.html'
 		})
 	],
 
