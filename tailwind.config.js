@@ -1,12 +1,9 @@
-
-/* --------------------------------- Módulos -------------------------------- */
-
 module.exports = {
-  content: ["index.html"],
+	content: ['./src/**/*.html', './src/**/*.{js,jsx,ts,tsx}'],
 
-  theme: {
-    extend: {}
-  },
+	theme: {
+		extend: {}
+	},
 
-  plugins: []
-}
+	plugins: []
+};
