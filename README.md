@@ -1,4 +1,4 @@
-# My Web Page
+# Portfolio
 
-Repositorio de mi sitio web personal.  
-[Más información.](https://github.com/hozlucas28/My-Web-Page/wiki/Notas)
+Repositorio de mi portafolio.  
+[Más información.](https://github.com/hozlucas28/Portfolio/wiki/Notas)

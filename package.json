@@ -1,7 +1,7 @@
 {
-  "name": "my-web-page",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Repository of my personal web page.",
+  "description": "Repository of my portfolio.",
   "private": true,
   "scripts": {
     "start": "webpack serve --mode=development --open",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hozlucas28/My-Web-Page.git"
+    "url": "git+https://github.com/hozlucas28/portfolio.git"
   },
   "keywords": [],
   "author": "Lucas Hoz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hozlucas28/My-Web-Page/issues"
+    "url": "https://github.com/hozlucas28/portfolio/issues"
   },
-  "homepage": "https://github.com/hozlucas28/My-Web-Page#readme",
+  "homepage": "https://github.com/hozlucas28/portfolio#readme",
   "devDependencies": {
     "@babel/core": "^7.19.3",
     "@babel/preset-env": "^7.19.3",
