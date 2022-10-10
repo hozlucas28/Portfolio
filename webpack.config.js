@@ -60,8 +60,8 @@ module.exports = {
 	plugins: [
 		new CopyPlugin({
 			patterns: [
-				{ from: 'README.md', to: './build/' },
-				{ from: './.gitignore', to: './build/' }
+				{ from: 'README.md', to: './' },
+				{ from: './.gitignore', to: './' }
 			]
 		}),
 		new HtmlWebpackPlugin({
