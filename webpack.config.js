@@ -1,4 +1,5 @@
 const path = require('path');
+const CopyPlugin = require('copy-webpack-plugin');
 const TerserPlugin = require('terser-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const HtmlMinimizerPlugin = require('html-minimizer-webpack-plugin');
@@ -57,6 +58,12 @@ module.exports = {
 	},
 
 	plugins: [
+		new CopyPlugin({
+			patterns: [
+				{ from: 'README.md', to: './' },
+				{ from: './.gitignore', to: './' }
+			]
+		}),
 		new HtmlWebpackPlugin({
 			minify: true,
 			template: './src/index.html',
