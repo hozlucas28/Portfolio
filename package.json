@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack serve --mode=development --open",
     "build": "SET NODE_ENV=production && webpack",
-    "deploy": "SET NODE_DEBUG=gh-pages && gh-pages -d build -b Deploy"
+    "deploy": "SET NODE_DEBUG=gh-pages && gh-pages -d build -b Deploy -dotfiles true"
   },
   "repository": {
     "type": "git",
