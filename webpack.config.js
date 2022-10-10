@@ -14,7 +14,7 @@ module.exports = {
 	output: {
 		clean: true,
 		filename: 'bundle.[fullhash].js',
-		path: path.resolve(__dirname, 'public')
+		path: path.resolve(__dirname, 'build')
 	},
 
 	module: {

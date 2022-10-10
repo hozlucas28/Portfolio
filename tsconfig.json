@@ -3,7 +3,7 @@
         "jsx": "react",
         "module": "es6",
         "target": "es5",
-        "outDir": "./public/",
+        "outDir": "./build/",
         "allowJs": true,
         "sourceMap": true,
         "noImplicitAny": true,
