@@ -21,14 +21,14 @@ module.exports = {
 	module: {
 		rules: [
 			{
-				test: /\.tsx?$/,
-				use: 'ts-loader',
-				exclude: /node_modules/
-			},
-			{
 				test: /\.html$/i,
 				loader: 'html-loader',
 				options: { sources: true }
+			},
+			{
+				test: /\.(png|svg|jpg|jpeg|ico|gif)$/i,
+				type: 'asset/resource',
+				generator: { filename: 'img/[name].[hash][ext]' }
 			},
 			{
 				test: /\.css$/i,
@@ -36,9 +36,9 @@ module.exports = {
 				use: ['style-loader', 'css-loader', 'postcss-loader']
 			},
 			{
-				test: /\.(png|svg|jpg|jpeg|ico|gif)$/i,
-				type: 'asset/resource',
-				generator: { filename: 'img/[name].[hash][ext]' }
+				test: /\.tsx?$/,
+				use: 'ts-loader',
+				exclude: /node_modules/
 			},
 			{
 				test: /\.m?js$/,
