@@ -4,7 +4,7 @@
   "description": "Repository of my portfolio.",
   "private": true,
   "scripts": {
-    "start": "webpack serve --mode=development --open",
+    "start": "webpack serve --mode=development --open --client-logging warn",
     "build": "SET NODE_ENV=production && webpack",
     "deploy": "SET NODE_DEBUG=gh-pages && gh-pages -d build -b Deploy -t true"
   },
