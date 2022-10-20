@@ -68,13 +68,13 @@ module.exports = {
 			template: './src/index.html',
 			scriptLoading: 'blocking',
 			filename: 'index.html'
-		}),
-		new HtmlWebpackPlugin({
-			minify: true,
-			template: './src/test/index.html',
-			scriptLoading: 'blocking',
-			filename: './test/index.html'
 		})
+		// new HtmlWebpackPlugin({
+		// minify: true,
+		// template: './src/test/index.html',
+		// scriptLoading: 'blocking',
+		// filename: './test/index.html'
+		// })
 	],
 
 	optimization: {
