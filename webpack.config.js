@@ -2,7 +2,6 @@ const path = require('path');
 const CopyPlugin = require('copy-webpack-plugin');
 const TerserPlugin = require('terser-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const HtmlMinimizerPlugin = require('html-minimizer-webpack-plugin');
 
 module.exports = {
 	mode: 'production',
@@ -80,6 +79,6 @@ module.exports = {
 
 	optimization: {
 		minimize: true,
-		minimizer: [new TerserPlugin(), new HtmlMinimizerPlugin()]
+		minimizer: [new TerserPlugin()]
 	}
 };
